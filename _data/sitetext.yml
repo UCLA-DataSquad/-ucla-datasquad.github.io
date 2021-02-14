@@ -87,7 +87,7 @@ Members of the DataSquad do not create, interpret, analyze, dictate, or otherwis
 DataSquad is a part of the UCLA Library Data Science Center."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    title: "Staff"
+        title: "Staff"
     people:
       - name: "Tim Dennis"
         role: "Director, Data Science Center"
