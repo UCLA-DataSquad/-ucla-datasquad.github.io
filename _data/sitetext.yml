@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Facilitating Data Processes at UCLA!
+    text: DataSquad
+    button: Do You Need Help? 
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
