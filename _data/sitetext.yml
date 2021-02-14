@@ -80,7 +80,7 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
+    title: "Staff"
     text: "DataSquad is a team of students who support data related projects at UCLA.
 Our mission is to facilitate data processes for sustainable, replicable, and reproducible research, teaching, presentation, and workflows.
 Members of the DataSquad do not create, interpret, analyze, dictate, or otherwise change the nature of data sets outside of the prescribed task.
@@ -118,6 +118,7 @@ DataSquad is a part of the UCLA Library Data Science Center."
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+    title: "Data Squad Members"
     section: team2
     people:
       - name: "Larry Parker"
