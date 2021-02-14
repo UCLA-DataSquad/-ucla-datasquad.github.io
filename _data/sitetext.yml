@@ -120,7 +120,7 @@ DataSquad is a part of the UCLA Library Data Science Center."
             icon: fab fa-linkedin-in
     section: team2
     people:
-       - name: "Larry Parker"
+      - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
